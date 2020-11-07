@@ -16,11 +16,11 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: [이곳에 제목 입력]
+  title: \[이곳에 제목 입력\]
   tagline: 
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
